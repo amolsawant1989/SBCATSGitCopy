@@ -1,0 +1,9 @@
+INSTALL_BLOCK
+.buildpath
+.project
+.settings/*
+docker/data/*
+docker/persist/*
+vendor/*
+attachments/*
+temp/*
